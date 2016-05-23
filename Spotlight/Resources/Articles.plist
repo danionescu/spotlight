@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>Squirrel</string>
+		<key>text</key>
+		<string>Squirrels are members of the family Sciuridae, consisting of small or medium-size rodents. The family includes tree squirrels, ground squirrels, chipmunks, marmots (including woodchucks), flying squirrels, and prairie dogs. Squirrels are indigenous to the Americas, Eurasia, and Africa, and have been introduced to Australia. The earliest known squirrels date from the Eocene and are most closely related to the mountain beaver and to the dormouse among living rodent families.</string>
+		<key>summary</key>
+		<string>Lorem ipsum dolor sit amet and some squirrels</string>
+		<key>uuid</key>
+		<string>squirrel</string>
+		<key>thumb</key>
+		<string>squirrel-thumb</string>
+		<key>image</key>
+		<string>squirrel</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Chipmunk</string>
+		<key>text</key>
+		<string>Chipmunks are small, striped rodents of the family Sciuridae. Chipmunks are found in North America, with the exception of the Siberian chipmunk which is found primarily in Asia.</string>
+		<key>summary</key>
+		<string>Lorem ipsum dolor sit amet plus chipmunks</string>
+		<key>uuid</key>
+		<string>chipmunk</string>
+		<key>thumb</key>
+		<string>chipmunk-thumb</string>
+		<key>image</key>
+		<string>chipmunk</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Owl</string>
+		<key>text</key>
+		<string>Owls are birds from the order Strigiformes, which includes about two hundred species of mostly solitary and nocturnal birds of prey typified by an upright stance, a large, broad head, binocular vision, binaural hearing, sharp talons, and feathers adapted for silent flight. Exceptions include the diurnal northern hawk-owl and the gregarious burrowing owl.</string>
+		<key>summary</key>
+		<string>Lorem ipsum dolor sit amet vs squirrel</string>
+		<key>uuid</key>
+		<string>owl</string>
+		<key>thumb</key>
+		<string>owl-thumb</string>
+		<key>image</key>
+		<string>owl</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Lynx</string>
+		<key>text</key>
+		<string>A lynx (/ˈlɪŋks/; plural lynx or lynxes) is any of the four species within the Lynx genus of medium-sized wild cats. The name &quot;lynx&quot; originated in Middle English via Latin from the Greek word λύγξ, derived from the Indo-European root leuk- (&quot;light, brightness&quot;) in reference to the luminescence of its reflective eyes.</string>
+		<key>summary</key>
+		<string>Lorem ipsum dolor sit amet vs owl</string>
+		<key>uuid</key>
+		<string>lynx</string>
+		<key>thumb</key>
+		<string>lynx-thumb</string>
+		<key>image</key>
+		<string>lynx</string>
+	</dict>
+</array>
+</plist>
